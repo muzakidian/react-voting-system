@@ -92,7 +92,7 @@ const Home = ({ db, firebase, candidates, user, setUser }) => {
   const handleOnVote = async () => {
     await addDoc(userCollectionRef, { ...selectedCandidate }).then(() => {
       setSelectedCandidate(null);
-      window.alert('Thank you for voting!');
+      window.alert('Makasih udah ngevote!');
       window.location.reload();
     });
   };

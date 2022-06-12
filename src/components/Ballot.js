@@ -19,6 +19,7 @@ const Ballot = ({ candidates, selectedCandidate, onClick }) => {
         }}
         {...props}
       >
+        <img src={data.image} alt="" width="100" height="100"/>
         <span className={['radio', isChecked].join(' ')} />
         <span className="name">
           {[data.last_name, data.first_name].join(', ')}
