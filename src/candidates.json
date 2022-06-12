@@ -1,0 +1,108 @@
+{
+  "presidential": [
+    {
+      "id": 1,
+      "first_name": "Bakso",
+      "last_name": "Mie Ayam",
+      "image": "images/abc.png"
+    },
+    {
+      "id": 2,
+      "first_name": "Pizza",
+      "last_name": "Burgir",
+      "image":"https://images.unsplash.com/photo-1433086966358-54859d0ed716?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    },
+    {
+      "id": 3,
+      "first_name": "Indomie",
+      "last_name": "Mie Sedaap"
+    },
+    {
+      "id": 4,
+      "first_name": "Soto",
+      "last_name": "Rawon"
+    },
+    {
+      "id": 5,
+      "first_name": "Steak",
+      "last_name": "Lalapan"
+    },
+    {
+      "id": 6,
+      "first_name": "Papeda",
+      "last_name": "Arum Manis"
+    },
+    {
+      "id": 7,
+      "first_name": "Pecel",
+      "last_name": "Sayur Asem"
+    },
+    {
+      "id": 8,
+      "first_name": "Opor Ayam",
+      "last_name": "Lontong Sate"
+    },
+    {
+      "id": 9,
+      "first_name": "Tahu Telor",
+      "last_name": "Tahu Lontong"
+    },
+    {
+      "id": 10,
+      "first_name": "Whiskas",
+      "last_name": "Me'o"
+    }
+  ],
+  "vicepresidential": [
+    {
+      "id": 11,
+      "first_name": "Es Degan",
+      "last_name": "Es Durian"
+    },
+    {
+      "id": 12,
+      "first_name": "Es Cendol",
+      "last_name": "Bandrek"
+    },
+    {
+      "id": 13,
+      "first_name": "STMJ",
+      "last_name": "Kopi Susu"
+    },
+    {
+      "id": 14,
+      "first_name": "Jus Apel",
+      "last_name": "Jus Anggur"
+    },
+    {
+      "id": 15,
+      "first_name": "Arak",
+      "last_name": "Beras Kencur"
+    },
+    {
+      "id": 16,
+      "first_name": "Tuak",
+      "last_name": "Coca cola"
+    },
+    {
+      "id": 17,
+      "first_name": "Sprite",
+      "last_name": "Fanta"
+    },
+    {
+      "id": 18,
+      "first_name": "Kopi Hitam",
+      "last_name": "Es Teh"
+    },
+    {
+      "id": 19,
+      "first_name": "Teh Tarik",
+      "last_name": "Air Putih"
+    },
+    {
+      "id": 20,
+      "first_name": "Soda Gembira",
+      "last_name": "Sodah Sedih"
+    }
+  ]
+}
